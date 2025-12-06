@@ -17,3 +17,5 @@ Aplikasi ini juga dapat menambahkan dan membuang sebuah anime dari daftar favori
 ![Favorite Screen](screenshot/Favorite%20Screen.png)
 ![Profile Screen](screenshot/Profile%20Screen.png)
 ![Detail Screen](screenshot/Detail%20Screen.png)
+
+[Demo Aplikasi](https://drive.google.com/file/d/1JRevyWPAyU6a08Ib0OOuYILOlV82vkOr/view?usp=sharing)
