@@ -1,16 +1,19 @@
 # anime_verse
 
-A new Flutter project.
+Nama : Edwin Jonatan Purba
+NIM : 231401091
+KOM : A
+Lab : 2
 
-## Getting Started
+## Deskripsi Projek
 
-This project is a starting point for a Flutter application.
+Anime Verse adalah aplikasi mobile yang berfungsi untuk menampilkan daftar yang telah terdaftar di MyAnimeList. 
+Aplikasi ini dapat menampilkan judul, genre, key visual, jumlah episode, sinopsis, dan rating dari anime tertentu. 
+Aplikasi ini juga dapat menambahkan dan membuang sebuah anime dari daftar favorit pengguna.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login Screen](screenshot/<Login Screen.png>)
+![Sign up Screen](<screenshot/<Sign up Screen.png>)
+![Home Screen](screenshot/<Home Screen.png>)
+![Favorite Screen](screenshot/<Favorite Screen.png>)
+![Profile Screen](screenshot/<Profile Screen.png>)
+![Detail Screen](screenshot/<Detail Screen.png>)
